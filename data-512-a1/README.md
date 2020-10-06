@@ -1,2 +1,3 @@
-# data-512
-Contains all the codes and details related to assignments for the course DATA 512: Human Centered Data Science
+# A1: Data Curation
+
+The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through August 30 2020.
