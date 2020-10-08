@@ -27,7 +27,7 @@ The following are the fields in the [final csv data file](data/csv/en-wikipedia_
 
 The following considerations are to be taken into account for the given data:
 
-1. The Page Views API provides a mechanism to filter by user agent. As a result, the final dataset has the minor anomaly that the Page Count values include bots (spiders/crawlers/etc), whereas the Page Views API does not.
+1. The Pageviews API provides a mechanism to filter by user agent. As a result, the final dataset has the minor anomaly that the pagecount values include bots (spiders/crawlers/etc), whereas the pageview values does not.
 2. Data for different access types (desktop, mobile-app, mobile-site) contains data for non-overlapping years. While creating the `pagecount_all_views` and `pageview_all_views`, the counts for the missing years is considered to be 0. However this does not necessarily imply that there were no pageviews or pagecounts during those periods.
 
 ## License
