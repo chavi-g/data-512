@@ -5,8 +5,8 @@ The goal of this assignment is to construct, analyze, and publish a dataset of m
 ## Data Source
 
 The data for the analysis has been collected from two different APIs-
-1. The Legacy Pagecount API ([Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts), [Endpoint](https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end)), at monthly granularity: December 2007 - July 2016
-2. The Pageviews API ([Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [Endpoint](https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)), at monthly granularity: July 2015 - August 2020
+1. The Legacy Pagecount API ([Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts), [Endpoint](https://wikimedia.org/api/rest_v1/#/Legacy%20data)), at monthly granularity: December 2007 - July 2016
+2. The Pageviews API ([Documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [Endpoint](https://wikimedia.org/api/rest_v1/#/Pageviews%20data)), at monthly granularity: July 2015 - August 2020
 
 ## Data Description
 
