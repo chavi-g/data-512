@@ -4,6 +4,13 @@
       "project": "en.wikipedia",
       "access-site": "desktop-site",
       "granularity": "monthly",
+      "timestamp": "2007120100",
+      "count": 2998331524
+    },
+    {
+      "project": "en.wikipedia",
+      "access-site": "desktop-site",
+      "granularity": "monthly",
       "timestamp": "2008010100",
       "count": 4930902570
     },
@@ -713,20 +720,6 @@
       "granularity": "monthly",
       "timestamp": "2016060100",
       "count": 4975092447
-    },
-    {
-      "project": "en.wikipedia",
-      "access-site": "desktop-site",
-      "granularity": "monthly",
-      "timestamp": "2016070100",
-      "count": 5363966439
-    },
-    {
-      "project": "en.wikipedia",
-      "access-site": "desktop-site",
-      "granularity": "monthly",
-      "timestamp": "2016080100",
-      "count": 913675893
     }
   ]
 }
