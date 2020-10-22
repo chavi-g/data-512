@@ -1,6 +1,6 @@
 # A2: Bias in Data
 
-The goal of this assignment is to identify potential sources of bias in the Wikipedia Talk corpus of data annotated by annotators from Crowdworkers, and describe some implications of those biases.
+The goal of this assignment is to identify potential sources of bias in the Wikipedia Talk corpus of data annotated by annotators from Crowdflower, and describe some implications of those biases.
 
 ## Data Source
 
