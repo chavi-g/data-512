@@ -46,6 +46,11 @@ The analysis focuses on the following two datasets:
 **Results**. We observe that labelers are equally likely to disagree while labelling toxicity and personal attacks. We however observe that while labellers are likely to disagree more on comments which majority label as hostile (toxic/attack). Labellers are likely to agree more while labelling a comment as not hostile. The increased uncertainty while labeling hostile comments could result in lower performance of classifiers.
 
 
+Toxicity vs Attacks             |  Toxic vs Non Toxic          |  Attack vs Non Attack
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/label_disagreement_toxic_vs_attack.png)  |  ![](images/label_disagreement_toxicity.png)  | ![](images/label_disagreement_attack.png)
+
+
 ### II. Explore relationships between worker demographics and labeling behavior
 
 **Question**.  How consistent are labelling behaviors among workers with different demographic profiles? For example, are female-identified labelers more or less likely to label comments as aggressive than male-identified labelers?
@@ -53,7 +58,14 @@ The analysis focuses on the following two datasets:
 **Results**. We observe that there is a similar proportions being tagged as toxic or attack among the different age groups and first language. We see that while the proportion of comments marked as toxic remains similar between different genders, there is an increase in the proportion of comments that workers of 'other' gender label as containing attacks. The possible reason for this could be that the comments annotated for attacks may contain words pertaining to gender or hostile comments for non-binary people.  
 We also see that workers with no educational background labelled fewer comments as containing personal attacks.
 
-The jupyter notebook containing the analyis code can be found [here](data512-a2-bias-in-data.ipynb) and the output graphs for the analysis can be found [here](images/).
+Gender             |     Age Group       
+:-------------------------:|:-------------------------:
+![](images/hostile_comments_by_gender.png)  |  ![](images/hostile_comments_by_age.png)  
+Education             |     First Language       
+:-------------------------:|:-------------------------:
+![](images/hostile_comments_by_education.png)  |  ![](images/hostile_comments_by_language.png)  
+
+The jupyter notebook containing the analyis code can be found [here](data512-a2-bias-in-data.ipynb).
 
 ## License
 
