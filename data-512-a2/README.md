@@ -4,10 +4,8 @@ The goal of this assignment is to identify potential sources of bias in the Wiki
 
 ## Data Source
 
-The data for the analysis has been collected from [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731)
+The data for the analysis has been collected from [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731)  and the data schema can be found [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).  
 The analysis focuses on two datasets- [Toxicity](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Toxicity/4563973) and [Personal Attacks](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Personal_Attacks/4054689)
-
-## Data Description
 
 
 
@@ -30,8 +28,7 @@ The analysis focuses on two datasets- [Toxicity](https://figshare.com/articles/d
 
 ## Analysis Questions
 
-
-## Final Visualizations
+## Results
 
 
 ## License
