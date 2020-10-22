@@ -19,7 +19,15 @@ The analysis focuses on two datasets- [Toxicity](https://figshare.com/articles/d
 │   ├── attack_worker_demographics.tsv
 │   ├── toxicity_annotated_comments.tsv
 │   ├── toxicity_annotations.tsv
-│   └── toxicity_worker_demographics
+│   └── toxicity_worker_demographics.tsv
+├── images
+│   ├── hostile_comments_by_age.png
+|   ├── hostile_comments_by_education.png
+│   ├── hostile_comments_by_gender.png
+│   ├── hostile_comments_by_language.png
+│   ├── label_disagreement_attack.png
+│   ├── label_disagreement_toxic_vs_attack.png
+│   └── label_disagreement_toxicity.png
 ├── README.md
 ├── LICENCE
 └── data512-a2-bias-in-data.ipynb
