@@ -61,6 +61,8 @@ We also see that workers with no educational background labelled fewer comments 
 Gender             |     Age Group       
 :-------------------------:|:-------------------------:
 ![](images/hostile_comments_by_gender.png)  |  ![](images/hostile_comments_by_age.png)  
+
+
 Education             |     First Language       
 :-------------------------:|:-------------------------:
 ![](images/hostile_comments_by_education.png)  |  ![](images/hostile_comments_by_language.png)  
